@@ -1,0 +1,6 @@
+git init    初始化
+git add .   添加所有
+git status  查看当前状态
+git commit -m '注释区域'                 用户名    后面本地文件夹名
+git remote add origin https://github.com/qhwebkit/...     
+git push -u origin master  
